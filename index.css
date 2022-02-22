@@ -28,7 +28,7 @@ padding: 10px;
 line-height: 1.4;
 
 */
-p{
+p {
   font-size: 16px;
 font-family: 'roboto';
 padding: 10px;
@@ -60,7 +60,7 @@ img {
   width: 600px;
 }
 
-div.container header nav a {
+.container header nav a {
   margin: 0 10px;
   border: 1px solid lightgray;
   padding: 20px;
@@ -142,7 +142,6 @@ footer a {
 
 footer nav a:first-child {
   margin-left: 0;
-}
 
 /*======= Create a hover state for the anchor tag in the footer nav to have the following styles:
   color: white;
@@ -156,5 +155,4 @@ footer .footer-content .copyright {
   padding: 20px 0;
   text-align: center
    /*======= center the text here */
-   
 }
