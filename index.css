@@ -60,7 +60,7 @@ img {
   width: 600px;
 }
 
-.container-header-nav-a {
+div.container header nav a {
   margin: 0 10px;
   border: 1px solid lightgray;
   padding: 20px;
